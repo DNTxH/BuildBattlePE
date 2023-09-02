@@ -2,8 +2,8 @@ name: BuildBattlePR
 version: 0.0.1
 api: 5.0.0
 author: NurAzliYT
-main: cooldogedev\BuildBattle\BuildBattle
-website: https://github.com/cooldogedev/BuildBattle
+main: NurAzliYT\BuildBattlePE\BuildBattlePE
+website: https://github.com/NurAzliYT/BuildBattlePE
 description: "BuildBattle minigame"
 permissions:
   buildbattlepe.subcommand.create:
