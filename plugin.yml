@@ -1,19 +1,19 @@
-name: BuildBattle
-version: 0.0.3
-api: 4.0.0
-author: cooldogedev
+name: BuildBattlePR
+version: 0.0.1
+api: 5.0.0
+author: NurAzliYT
 main: cooldogedev\BuildBattle\BuildBattle
 website: https://github.com/cooldogedev/BuildBattle
 description: "BuildBattle minigame"
 permissions:
-  buildbattle.subcommand.create:
+  buildbattlepe.subcommand.create:
     default: op
-  buildbattle.subcommand.delete:
+  buildbattlepe.subcommand.delete:
     default: op
-  buildbattle.subcommand.list:
+  buildbattlepe.subcommand.list:
     default: op
 
-  buildbattle.subcommand.join:
+  buildbattlepe.subcommand.join:
     default: true
-  buildbattle.subcommand.quit:
+  buildbattlepe.subcommand.quit:
     default: true
