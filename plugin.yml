@@ -2,7 +2,7 @@ name: BuildBattlePE
 version: 0.0.1
 api: 5.0.0
 author: NurAzliYT
-main: NurAzliYT\BuildBattle\BuildBattle
+main: cooldogedev\BuildBattle\BuildBattle
 website: https://github.com/NurAzliYT/BuildBattlePE
 description: "BuildBattle minigame"
 permissions:
