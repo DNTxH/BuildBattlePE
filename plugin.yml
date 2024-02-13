@@ -1,10 +1,10 @@
 name: BuildBattlePE
+main: cooldogedev\BuildBattle\BuildBattle
 version: 0.0.1
 api: 5.0.0
 author: NurAzliYT
-main: cooldogedev\BuildBattle\BuildBattle
-website: https://github.com/NurAzliYT/BuildBattlePE
 description: "BuildBattle minigame"
+
 permissions:
   buildbattlepe.subcommand.create:
     default: op
@@ -12,7 +12,6 @@ permissions:
     default: op
   buildbattlepe.subcommand.list:
     default: op
-
   buildbattlepe.subcommand.join:
     default: true
   buildbattlepe.subcommand.quit:
